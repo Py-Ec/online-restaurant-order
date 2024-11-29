@@ -6,7 +6,7 @@
 - TailwindCSS
 - Firebase
 ## Live Demo 
-<a href = "https://PyEcZenith-online-restaurant-app.vercel.app/" >DEMO HERE!<a/>
+<a href = "https://online-restaurant-order.vercel.app/" >DEMO HERE!<a/>
   
 ## UI Desktop View
 ![image](https://user-images.githubusercontent.com/55560024/173251550-db16bf1d-8fa1-4af0-be5d-c447b1cca69b.png)
